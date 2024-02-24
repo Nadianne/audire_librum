@@ -10,10 +10,18 @@ Aprendemos a criar esse projeto, focando na lógica por trás da manipulação d
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Para Prototipação:
-Figma
+- **Figma**
 
 ### Para desenvolvimento:
-HTML
-CSS
-JavaScript
+- **Html**
+- **CSS**
+- **JavaScript**
+
+### Funcionalidades
+- **Reprodução de áudio:** Os usuários podem reproduzir audiolivros diretamente no site.
+- **Controles de áudio:** Botões de play, pause, avanço e retrocesso estão disponíveis para controle fácil do áudio.
+- **Site responsivo:** O site foi desenvolvido com foco na responsividade, garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.
+
+Espero que você aproveite o AudireLibrum! <3 
+
 
