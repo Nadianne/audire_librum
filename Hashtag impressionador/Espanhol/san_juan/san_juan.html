@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>Audire Librum</title>
+</head>
+<body>
+    <header>
+        <a href="../../Index.html" class="logo">audire librum</a>
+        <input type="checkbox" id="menu-bar">
+        <label for="menu-bar">Menu</label>
+        <nav class="navbar">
+            <ul>
+                <li><a href="../../Index.html">Início</a></li>
+                <li><a href="../inicio.html">Sobre</a></li>
+                <li><a href="#">Gênero +</a>
+                    <ul>
+                        <li><a href="../../Espanhol/generos/classico/inicio.html">Clássico</a></li>
+                        <li><a href="../../Espanhol/generos/religioso/inicio.html">Religioso</a></li>
+                    </ul>
+                
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <div id="container-site">
+            <img src="image 20.png">
+            <div id="info-faixa">
+                <p id="capitulo">Capítulo 1</p>
+                <p id="nome-autor">San Juan </p>
+                <p id="resumo"><br>El libro de San Juan destaca la vida, <br> enseñanzas y milagros de de Jesús, <br>revelando su divinidad y el amor de Dios  <br>por toda la humanidad.</p>
+
+            </div>
+            <audio id= "audioCapitulo" src="san_juan_0808_librivox/1.mp3"></audio>
+            <div id="container-botoes">
+                <button id="botaoBack" class="bi bi-skip-backward"></button>
+                <button id="botaoPlayPause" class="bi bi-play"></button>
+                <button id="botaoNext" class="bi bi-fast-forward"></button>
+            </div>
+        
+    </div>
+
+    <script src="script.js"></script>
+    <footer>
+        <p>Copyright © 2024 | Nadianne Galvão | Feito com ♡</p>
+    </footer>
+
+</body>
+</html>
