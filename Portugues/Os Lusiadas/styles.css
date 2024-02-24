@@ -173,6 +173,9 @@ header label{
 
         
     }
+    #container-site p{
+        font-size: 8px;
+    }  
     body {
         background-size: cover;
         background-position: center;

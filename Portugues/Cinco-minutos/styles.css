@@ -20,7 +20,7 @@
   }
 
   #resumo{
-    font-size: 12px;
+    font-size: 10px;
     align-items: center;  
     box-sizing: border-box; 
     text-align: justify;
@@ -54,7 +54,6 @@
     cursor: pointer;
 }
 
-  
 
 footer {
     margin-top: 60px;
@@ -178,6 +177,11 @@ header label{
         background-position: center;
         z-index: -1;
     }
+
+    #container-site p{
+        font-size: 8px;
+    }  
+    
       
    
 }
