@@ -1,0 +1,314 @@
+@media (max-width: 1368px) {
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 20%;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(40% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 25px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    
+    .icon {
+      margin: 50px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+  
+  }
+  @media (max-width: 1024px) {
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 35%;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(55% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 35px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    
+    .icon {
+      margin: 20px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+      margin-top: 180px;
+    }
+    @media (max-width: 1024px) {
+      .logo-container img{
+        position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+        top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+        left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+        transform: translate(-50%, -50%); /* Centraliza a logo */
+        max-width: 35%;
+      }
+      .logo-text {
+        position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+        top: calc(55% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+        left: 50%; /* Centraliza horizontalmente o texto */
+        transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+        font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+        font-size: 35px; /* Define o tamanho da fonte */
+        color: rgb(243, 243, 243); /* Define a cor do texto */
+      }
+      
+      .icon {
+        margin: 20px; /* Adiciona espaçamento entre os ícones */
+        text-align: center;
+        margin-top: 180px;
+      }
+    }
+  }
+  @media (max-width: 914px) {
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 35%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 25%;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(65% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 25px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    
+    .icon {
+      margin: 50px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+      margin-top: 35%;
+    }
+  
+  }
+  @media (max-width: 912px) {
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 35%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 25%;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(45% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 25px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    
+    .icon {
+      margin: 50px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+      margin-top: 35%;
+    }
+  
+  }
+  
+  @media (max-width: 768px) {
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 35%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 35%;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(50% + 65px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 25px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    
+    .icon {
+      margin: 20px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+      margin-top: 35%;
+    }
+  
+  }
+  @media (max-width: 720px) {
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 35%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 35%;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(70% + 65px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 25px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    
+    .icon {
+      margin: 20px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+      margin-top: 35%;
+    }
+  
+  }
+  
+  @media (max-width: 653px){
+    .icon {
+      margin: 20px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(90% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 18px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 40%;
+  
+    }
+  }
+  @media (max-width: 540px){
+    .icon {
+      margin: 40px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(40% + 25px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 18px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 40%;
+  
+    }
+  }
+  @media (max-width: 430px){
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(40% + 5px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 18px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    .icon {
+      margin: 30px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 55%;
+  
+    }
+  }
+  @media (max-width: 412px){
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 55%;
+  
+    }
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(40% + 5px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 18px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    .icon {
+      margin: 20px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+    
+  
+  }
+  @media (max-width: 375px){
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(40% + 50px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 18px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    .icon {
+      margin: 20px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 50%;
+    }
+  }
+  @media (max-width: 280px){
+    .logo-text {
+      position: absolute; /* Torna a posição absoluta para que o texto possa ser posicionado em relação à div de logo */
+      top: calc(35% + 50px); /* Posiciona o topo do texto 10 pixels abaixo da div de logo */
+      left: 50%; /* Centraliza horizontalmente o texto */
+      transform: translateX(-50%); /* Centraliza horizontalmente o texto */
+      font-family: 'Prompt', sans-serif; /* Define a fonte do texto */
+      font-size: 18px; /* Define o tamanho da fonte */
+      color: rgb(243, 243, 243); /* Define a cor do texto */
+    }
+    .icon {
+      margin: 10px; /* Adiciona espaçamento entre os ícones */
+      text-align: center;
+    }
+  
+    .logo-container img{
+      position: absolute; /* Posiciona a logo absolutamente em relação ao body */
+      top: 25%; /* Ajusta a posição verticalmente para o centro da tela */
+      left: 50%; /* Ajusta a posição horizontalmente para o centro da tela */
+      transform: translate(-50%, -50%); /* Centraliza a logo */
+      max-width: 55%;
+    }
+  
+  }
