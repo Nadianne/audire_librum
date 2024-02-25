@@ -178,6 +178,10 @@ header label{
         background-position: center;
         z-index: -1;
     }
+    #container-site p{
+        font-size: 12px;
+    }  
+    
       
    
 }
