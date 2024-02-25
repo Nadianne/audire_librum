@@ -1,4 +1,6 @@
 # audire_librum 📖 🔉
+Acesse em: https://audire-librum.vercel.app/
+
 Este é o repositório oficial do projeto AudireLibrum, que foi desenvolvido inspirado nas aulas do evento Intensivão de JavaScript pela empresa Hashtag Treinamentos.
 ![audirelibrum](https://github.com/Nadianne/audire_librum/assets/54487179/4e900795-b9b9-4e96-8607-14c7299f1117)
 
